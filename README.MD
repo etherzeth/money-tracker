@@ -102,4 +102,4 @@ Gunakan angka pada menu untuk memilih fitur:
 
 Semua data pengeluaran akan otomatis tersimpan dalam file **data.json**.
 
----
+----
